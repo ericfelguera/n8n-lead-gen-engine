@@ -19,15 +19,15 @@ This repository showcases a high-performance data engineering solution designed 
 
 ### 1. Workflow Orchestration
 The end-to-end flow manages everything from coordinate retrieval to the final insertion of qualified leads.
-![n8n Workflow Mastery](img/workflow_capture.jpg)
+![n8n Workflow Mastery](img/workflow_capture.png)
 
 ### 2. Geospatial Intelligence
 Database configuration for grid-based division (Example: Ciudad Real, Spain).
-![Coordinate Grid Setup](img/grid_setup.jpg)
+![Coordinate Grid Setup](img/grid_setup.png)
 
 ### 3. Final Output: Enriched Leads
 The final result: leads with verified websites, exact locations, and ranked contact emails.
-![Generated Lead Data](img/leads_results.jpg)
+![Generated Lead Data](img/leads_results.png)
 
 ## 🚀 Future Roadmap & Scalability
 * **Automated Outreach Integration:** Native Webhook connection to Cold Email platforms (like Instantly.ai or Lemlist) to trigger sequences the moment a high-relevance lead is detected.
